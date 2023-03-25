@@ -1,0 +1,13 @@
+---
+title: "Crowd-Sourced Data and Analysis Tools for Advancing the Chemical Vapor Deposition of Graphene: Implications for Manufacturing"
+date: 2020-08-27
+publishDate: 2020-08-27
+authors: ["Joshua A Schiller", "Ricardo Toro", "Aagam Shah", ..., "Elif Ertekin", "Sameh Tawfick"]
+publication_types: ["2"]
+abstract: "Industrial production of graphene by chemical vapor deposition (CVD) requires more than the ability to synthesize large domain, high-quality graphene in a lab reactor. The integration of graphene in the fabrication process of electronic devices requires the cost-effective and environmentally friendly production of graphene on dielectric substrates, but current approaches can only produce graphene on metal catalysts. Sustainable manufacturing of graphene should also conserve the catalyst and reaction gases, but today the metal catalysts are typically dissolved after synthesis. Progress toward these objectives is hindered by the hundreds of coupled synthesis parameters that can strongly affect CVD of low-dimensional materials and poor communication in the published literature of the rich experimental data that exists in individual laboratories. We report here on a platform, “graphene recipes for synthesis of high quality material” (Gr-ResQ: pronounced graphene rescue), which includes powerful new tools for data-driven graphene synthesis. At the core of Gr-ResQ is a crowd-sourced database of CVD synthesis recipes and associated experimental results. The database captures ∼300 parameters ranging from synthesis conditions such as a catalyst material and preparation steps, to ambient lab temperature and reactor details, as well as resulting Raman spectra and microscopy images. These parameters are carefully selected to unlock the potential of machine-learning models to advance synthesis. A suite of associated tools enable fast, automated, and standardized processing of Raman spectra and scanning electron microscopy images. To facilitate community-based efforts, Gr-ResQ provides tools for cyber-physical collaborations among research groups, allowing experiments to be designed, executed, and analyzed by different teams. Gr-ResQ also allows publication and discovery of recipes via the Materials Data Facility, which assigns each recipe a unique identifier when published and collects parameters in a search index. We envision that this holistic approach to data-driven synthesis can accelerate CVD recipe discovery and production control and open opportunities for advancing not only graphene but also many other 1D and 2D materials."
+featured: false
+publication: ""
+tags: ["Authorship"]
+url_pdf: "https://doi.org/10.1021/acsanm.0c02018"
+---
+

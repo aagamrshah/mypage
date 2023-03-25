@@ -9,38 +9,33 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Research"
+  url = "#research"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Software"
+  url = "/software"
   weight = 30
 
 [[main]]
-  name = "Courses"
-  url = "#courses"
-  weight = 35
-
-[[main]]
   name = "Talks"
-  url = "#talks"
+  url = "/talks"
   weight = 40
 
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 50
+  weight = 25
+
+#[[main]]
+#  name = "Links"
+#  url = "#links"
+#  weight = 60
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
-
-[[main]]
-  name = "Research Group"
-  url = "https://data-exp-lab.github.io/"
+  name = "Personal"
+  url = "/personal"
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
